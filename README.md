@@ -1,3 +1,7 @@
+<iframe src="https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fhowtocode.com.bd&amp;width&amp;height=62&amp;colorscheme=light&amp;show_faces=false&amp;header=false&amp;stream=false&amp;show_border=false&amp;appId=353725671441956" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:62px; margin-left:-15px;" allowTransparency="true"></iframe>
+
+[কোর্স এর মুল পাতা](http://php.howtocode.com.bd/) | [HowToCode মুল সাইট](http://www.howtocode.com.bd/) | [সবার জন্য প্রোগ্রামিং ব্লগ](http://blog.howtocode.com.bd/)
+
 # বাংলায় পিএইচপি
 
 #### <a href="http://masnun.com">আবু আশরাফ মাসনুন</a>
@@ -22,4 +26,6 @@
 
 বইটির কন্টেন্ট ওপেন সোর্স । আপনিও অবদান রাখতে পারেন <a href="https://github.com/howtocode-com-bd/php.howtocode.com.bd">গিটহাব রিপোজিটরি</a>তে । আপনার অবদানও অবদান কারীদের তালিকায় যুক্ত করা হবে । 
 
-এছাড়া যে কোন ধরনের সাজেশন বা ফিডব্যাক ইমেইল করতে পারেন: `masnun [at] transcendio.net` এই ঠিকানায় । 
+এছাড়া যে কোন ধরনের সাজেশন বা ফিডব্যাক ইমেইল করতে পারেন: `masnun [at] transcendio.net` এই ঠিকানায় ।    
+
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fphp.howtocode.com.bd&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=true&amp;height=21&amp;appId=353725671441956" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true"></iframe>
