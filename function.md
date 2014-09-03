@@ -243,7 +243,6 @@ function fibonacci($step)
     $firstNumber = $secondNumber;
     $secondNumber = $next_no;
     $n = $step - $count;
-    var_dump("N = ".$n);
     if($count <= $step)
     {
         return fibonacci($n); // নিজেকে কল করা হয়েছে
