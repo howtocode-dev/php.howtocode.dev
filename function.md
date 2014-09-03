@@ -228,11 +228,13 @@ var_dump($data(20));
 
 ```php
 <?php
-function fibonacci($step)
+function fibo($step)
 {
-    static $count,$firstNumber = 0,$secondNumber = 1,$fib = array();
+    static $count = 0,$firstNumber = 0,$secondNumber = 1,$fib = array(), $mainStep;
+    if($count==0){$mainStep = $step - 2;}
     $count += 1;
-    $step = $step + 1;
+    $step = $step - 1;
+    var_dump("Step:".$step);
     if($firstNumber==0)
     {
         $fib[] = 0;
@@ -242,18 +244,20 @@ function fibonacci($step)
     $fib[] = $next_no;
     $firstNumber = $secondNumber;
     $secondNumber = $next_no;
-    $n = $step - $count;
-    if($count <= $step)
+    if($count < $mainStep)
     {
-        return fibonacci($n); // নিজেকে কল করা হয়েছে
+        return fibo($step); // নিজেকে কল করা হয়েছে
     }
     else
     {
         return $fib;
     }
+
 }
-var_dump(fibonacci(10));
+
+var_dump(fibo(90));
 ?>
 ```
+এটি এক প্রকার লেস্টেড লুপ , সাধারণত ১০০ টি লুপ লিমিট  থাকে। তাই Fibonacci জাতীয় প্রোগ্রাম for / while / if দিয়ে করা উচিত।
 
 >নোটঃ ইউজার ডিফাইন ফাংশনগুলোকে একটি ফাইলে রাখা বেস্ট প্রাকটিস হিসাবে গন্য করা হয়। এতে একই নামের ফাংশন দু/বেশি বার ডিক্লেয়ার হওয়ার সম্ভবনা থাকে না। এই ফাইলটিকে `requere_once 'file.php';` ব্যবহার করে অন্য ফাইলে এড করতে হয়। 
