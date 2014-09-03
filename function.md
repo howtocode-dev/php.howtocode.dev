@@ -221,5 +221,38 @@ $data = function ($limit){
 var_dump($data(20));
 ?>
 ```
+###রিকার্সিভ ফাংশনঃ
+কোন ফাংশন যখন নিজে নিজেকে কল করে তখন তাকে রিকার্সিভ ফাংশন বলা হয়ে থাকে।  নিচে একটি কোড দেওয়া হয়েছে যেটি  ধারার জনপ্রিয় সিরিজ Fibonacci এর n তম পদ পর্যন্ত বের করার ফাংশন। এই ফাংশনটি একটি রিকার্সিভ ফাংশন । এটি যতক্ষন পর্যন্ত `$count` এর মান  `$step` এর মানের সমান হচ্ছিল না ততক্ষন নিজেকে নিজে কল করেছে। 
+>খেয়াল রাখতে হবে যদি রিকার্সিভ ফাংশন থেকে ডাটা রিটার্ন  করতে হয় তবে  মূল ফাংশনের ভেতরে ফাংশনটিকে কল করার সময় ফাংশনের সামনে `return` লাগিয়ে কল করতে হবে।
+```php
+<?php
+function fibonacci($step)
+{
+    static $count,$firstNumber = 0,$secondNumber = 1,$fib = array();
+    $count += 1;
+    $step = $step + 1;
+    if($firstNumber==0)
+    {
+        $fib[] = 0;
+        $fib[] = 1;
+    }
+    $next_no = $firstNumber + $secondNumber;
+    $fib[] = $next_no;
+    $firstNumber = $secondNumber;
+    $secondNumber = $next_no;
+    $n = $step - $count;
+    var_dump("N = ".$n);
+    if($count <= $step)
+    {
+        return fibonacci($n); // নিজেকে কল করা হয়েছে
+    }
+    else
+    {
+        return $fib;
+    }
+}
+var_dump(fibonacci(10));
+?>
+```
 
 >নোটঃ ইউজার ডিফাইন ফাংশনগুলোকে একটি ফাইলে রাখা বেস্ট প্রাকটিস হিসাবে গন্য করা হয়। এতে একই নামের ফাংশন দু/বেশি বার ডিক্লেয়ার হওয়ার সম্ভবনা থাকে না। এই ফাইলটিকে `requere_once 'file.php';` ব্যবহার করে অন্য ফাইলে এড করতে হয়। 
