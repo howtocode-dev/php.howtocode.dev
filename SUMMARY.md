@@ -13,5 +13,6 @@
    * [ক্লাস এবং অবজেক্ট](oop-class-and-objects.md)
    * [মেথড এবং প্রোপার্টি](oop-method-and-property.md)
    * [স্ট্যাটিক ও নন-স্ট্যাটিক কনটেক্সট](static-and-non-static-context.md)
+   * [ইনহেরিট্যান্স](inheritance.md)
 * [অবদান](contributions.md)
 
