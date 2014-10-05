@@ -16,5 +16,7 @@
    * [ইনহেরিট্যান্স](oop-inheritance.md)
    * [ভিজিবিলিটি](oop-visibility.md)
    * [কনস্ট্রাক্টর এবং ডেস্ট্রাক্টর](oop-constructors-and-destructors.md)
+   * [ইন্টারফেইস](oop-interface.md)
+   * [এ্যাবস্ট্রাকশন](oop-abstraction.md)
 * [অবদান](contributions.md)
 
