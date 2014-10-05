@@ -18,5 +18,6 @@
    * [কনস্ট্রাক্টর এবং ডেস্ট্রাক্টর](oop-constructors-and-destructors.md)
    * [ইন্টারফেইস](oop-interface.md)
    * [এ্যাবস্ট্রাকশন](oop-abstraction.md)
+   * [ট্রেইটস](oop-traits.md)
 * [অবদান](contributions.md)
 
