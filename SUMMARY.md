@@ -15,5 +15,6 @@
    * [স্ট্যাটিক ও নন-স্ট্যাটিক কনটেক্সট](oop-static-and-non-static-context.md)
    * [ইনহেরিট্যান্স](oop-inheritance.md)
    * [ভিজিবিলিটি](oop-visibility.md)
+   * [কনস্ট্রাক্টর এবং ডেস্ট্রাক্টর](oop-constructors-and-destructors.md)
 * [অবদান](contributions.md)
 
