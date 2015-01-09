@@ -4,11 +4,8 @@
 
 # বাংলায় পিএইচপি
 
-#### <a href="http://masnun.com">আবু আশরাফ মাসনুন</a>
-<br/>
 
-<img src="cover.jpg" alt="cover" />
-
+<iframe scrolling="auto" frameborder="0" style="border:none; overflow:hidden; height:170px; width:100%; margin-left: 15;" allowTransparency="true" src="https://howtocode-bd.herokuapp.com/contrib/php"></iframe> 
 
 
 ##  প্রারম্ভিকা
@@ -18,16 +15,9 @@
 (১) <a href="http://php.net/usage.php">http://php.net/usage.php</a>
 
 
-## ট্রেইনিং ম্যাটেরিয়াল
-
-এই বইটি লেখার প্রয়োজনীয়তা প্রথম অনুভব করি <a href="http://transcendio.net/training">রাইটসাইট - ট্রান্সেন্ডিও পিএইচপি ট্রেইনিং</a> এর প্রথম সেশন চলাকালীন সময় । মূলত এই কোর্সের সিলেবাস থেকেই বইটি লেখা । আমাদের দেশে গতানুগতিক ধারার ট্রেইনিং এর বাইরে কিছু করার ইচ্ছা থেকেই আমি এই ট্রেইনিং সেশন শুরু করি । এখানে শিক্ষার্থীদের কে সপ্তাহে ৮ঘন্টা ক্লাসের পাশাপাশি আরো প্রায় ২০ ঘন্টার হোমওয়ার্ক করতে হয় । করতে হয় প্রেজেন্টেশন ও গ্রুপ ডিসকাশন । এসবের জন্য দরকার হয় নানা ধরনের রিসোর্স, সময় দিতে হয় হ্যাকার নিউজ, রেডিট কিংবা স্ট্যাক ওভারফ্লোতে । আমার প্রথম ব্যাচের শিক্ষার্থীদের জন্য এই সব এক্সটার্নাল রিসোর্স এর পাশাপাশি একটি হ্যান্ডবুক প্রোভাইড করার ইচ্ছা থেকেই এই বইটি লেখা ।
-
-আশা করি আমার ট্রেইনিং এ অংশগ্রহনকারীদের বাইরেও আরও অনেকে উপকৃত হবেন এই বইয়ের কন্টেন্ট থেকে ।
-
 ## ওপেন সোর্স
 
-বইটির কন্টেন্ট ওপেন সোর্স । আপনিও অবদান রাখতে পারেন <a href="https://github.com/howtocode-com-bd/php.howtocode.com.bd">গিটহাব রিপোজিটরি</a>তে । আপনার অবদানও অবদান কারীদের তালিকায় যুক্ত করা হবে ।
+বইটির কন্টেন্ট ওপেন সোর্স । আপনিও অবদান রাখতে পারেন <a href="https://github.com/howtocode-com-bd/php.howtocode.com.bd">গিটহাব রিপোজিটরি</a>তে ।
 
-এছাড়া যে কোন ধরনের সাজেশন বা ফিডব্যাক ইমেইল করতে পারেন: `masnun [at] transcendio.net` এই ঠিকানায় ।
 
 <iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fphp.howtocode.com.bd&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=true&amp;height=21&amp;appId=353725671441956" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true"></iframe>
