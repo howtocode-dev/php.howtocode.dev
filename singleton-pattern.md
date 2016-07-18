@@ -21,7 +21,7 @@ class Singleton
         return self::$instance;
     }
 
-    public function __construct()
+    private function __construct()
     {
 
     }
