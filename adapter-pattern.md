@@ -141,8 +141,8 @@ $db = new Database($mysql);
 
 আমরা চাইলে PDOAdapter ও ব্যবহার করতে পারি নিচের মত করে।
 ```php
-$mysql = new PDOAdapter('localhost', 'root', '1234', 'demo');
-$db = new Database($mysql);
+$pdo = new PDOAdapter('localhost', 'root', '1234', 'demo');
+$db = new Database($pdo);
 ```
 
 এতে করে অ্যাডাপ্টার গুলা **Loosly Coupled/Highly Decoupled** থাকে আর বর্তমানে এই টার্মটাকে খুবই প্রাধান্য দেয়া হয় বড় কোন অ্যাপ্লিকেশন কিংবা ফ্রেমওয়ার্ক তৈরি করতে গেলে।
