@@ -25,3 +25,4 @@
 * [ডিজাইন প্যাটার্ন](design-patterns.md)
     * [সিঙ্গেলটোন](singleton-pattern.md)
     * [অবজার্ভার](observer-pattern.md)
+    * [অ্যাডাপ্টার](adapter-pattern.md)
