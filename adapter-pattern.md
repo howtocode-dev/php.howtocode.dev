@@ -147,4 +147,4 @@ $db = new Database($pdo);
 
 এতে করে অ্যাডাপ্টার গুলা **Loosly Coupled/Highly Decoupled** থাকে আর বর্তমানে এই টার্মটাকে খুবই প্রাধান্য দেয়া হয় বড় কোন অ্যাপ্লিকেশন কিংবা ফ্রেমওয়ার্ক তৈরি করতে গেলে।
 
-নিচের [লিঙ্ক](https://github.com/sohelamin/php-design-patterns/blob/master/Adapter.php) থেকে সোর্স কোডটি পাবেন।
+নিচের [লিঙ্ক](https://github.com/sohelamin/php-design-patterns) থেকে সোর্স কোডটি পাবেন।

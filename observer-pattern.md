@@ -177,4 +177,4 @@ $post->title = 'Hello World';
 
 ```
 
-[এই লিঙ্ক](https://github.com/sohelamin/php-design-patterns/blob/master/Observer.php) থেকে আরও ধারনা পেতে পারেন।
+[এই লিঙ্ক](https://github.com/sohelamin/php-design-patterns) থেকে আরও ধারনা পেতে পারেন।

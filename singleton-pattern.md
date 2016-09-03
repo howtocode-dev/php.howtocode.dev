@@ -66,4 +66,4 @@ public static function getInstance()
 }
 ```
 
-[এই লিঙ্ক](https://github.com/sohelamin/php-design-patterns/blob/master/Singleton.php) থেকে কোডটি পাবেন।
+[এই লিঙ্ক](https://github.com/sohelamin/php-design-patterns) থেকে কোডটি পাবেন।
