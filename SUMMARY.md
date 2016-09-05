@@ -26,3 +26,4 @@
     * [সিঙ্গেলটোন](singleton-pattern.md)
     * [অবজার্ভার](observer-pattern.md)
     * [অ্যাডাপ্টার](adapter-pattern.md)
+    * [ফ্যাক্টরী](factory-pattern.md)
