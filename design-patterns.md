@@ -16,3 +16,4 @@
 * [অবজার্ভার](observer-pattern.md)
 * [অ্যাডাপ্টার](adapter-pattern.md)
 * [ফ্যাক্টরী](factory-pattern.md)
+* [ডিপেন্ডেন্সি ইনজেকশন](dependency-injection-pattern.md)
