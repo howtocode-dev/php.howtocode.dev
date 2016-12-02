@@ -22,4 +22,7 @@
 বইটির কন্টেন্ট ওপেন সোর্স । আপনিও অবদান রাখতে পারেন <a href="https://github.com/howtocode-com-bd/php.howtocode.com.bd">গিটহাব রিপোজিটরি</a>তে ।
 
 
-<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fphp.howtocode.com.bd&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=true&amp;height=21&amp;appId=353725671441956" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true"></iframe>
+<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fphp.howtocode.com.bd&amp;width&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;share=true&amp;height=21&amp;appId=353725671441956" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:21px;" allowTransparency="true"></iframe>  
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
+
