@@ -19,3 +19,4 @@
 * [ডিপেন্ডেন্সি ইনজেকশন](dependency-injection-pattern.md)
 * [ফ্যাসাড](facade-pattern.md)
 * [স্ট্রাটেজি](strategy-pattern.md)
+* [ইটারেটর](iterator-pattern.md)
