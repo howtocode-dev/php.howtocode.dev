@@ -20,3 +20,5 @@
 * [ফ্যাসাড](facade-pattern.md)
 * [স্ট্রাটেজি](strategy-pattern.md)
 * [ইটারেটর](iterator-pattern.md)
+* [প্রক্সি](proxy-pattern.md)
+* [ডেকোরেটর](decorator-pattern.md)
